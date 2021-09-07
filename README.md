@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komoto48g&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![illust1--](https://user-images.githubusercontent.com/83063554/132269209-d725c9c9-5afc-4286-b405-e6e47ffe62ff.png)
+![illust1--](https://user-images.githubusercontent.com/83063554/132269381-8451aeee-4933-40ed-aadc-b1ff7f24130d.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komoto48g&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
