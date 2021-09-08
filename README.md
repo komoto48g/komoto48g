@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komoto48g&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komoto48g&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<link rel="stylesheet" href="basic.css" />
+<article class="memo">
+<ul>
+<li> このレポジトリの原材料は Pyothon わずかに C/C++ 添加物に lisp を原材料とした工場で製造してます．
+<li> ライセンスにはできるだけ気を付けていますが，本レポジトリ内の資料を２次使用する，不特定多数の人にばらまく，悪態をつく等の行為は本人の責任において行ってください．
+</ul>
+</article>
