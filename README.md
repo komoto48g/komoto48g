@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![illust1--](https://user-images.githubusercontent.com/83063554/132269381-8451aeee-4933-40ed-aadc-b1ff7f24130d.png)
 <!--
 **komoto48g/komoto48g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komoto48g&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-![illust1--](https://user-images.githubusercontent.com/83063554/132269381-8451aeee-4933-40ed-aadc-b1ff7f24130d.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komoto48g&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komoto48g&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
