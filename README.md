@@ -6,7 +6,7 @@
 
 1. このレポジトリは主成分に Python, 微量の C/C++, 添加物に lisp を原材料として扱う工場で製造してます．  
 This repository is manufactured in a factory that uses Python as the main component, a small amount of C/C ++, and lisp as the additive.
-1. 本レポジトリ内の資料を２次使用する，不特定多数の人にばらまく，悪態をつく等の行為は本人の責任のもとで行ってください．  
+1. 本レポジトリ内の資料を無断で２次使用する，不特定多数の人にばらまく，悪態をつく等の行為は本人の責任のもとで行ってください．  
 It is the responsibility of the person to use the materials in this repository for the second use, disseminate it to an unspecified number of people, curse, and so on.
 1. これらのソフトウェアは非営利目的で提供されています．  
 These softwares are provided for non-commercial uses. If you have lost a million dollars by using it, that was your million, not mine.
